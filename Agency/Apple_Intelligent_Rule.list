@@ -5,8 +5,9 @@ DOMAIN-KEYWORD,guzzoni.smoot.apple.com
 DOMAIN-KEYWORD,guzzoni.apple.com
 DOMAIN-KEYWORD,amp-api-search-edge.apple.com
 
-# Apple Podcasts
+# Apple Components
 DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN-SUFFIX,tv.apple.com
 
 # Digital Currency
 DOMAIN-SUFFIX,binance.com
