@@ -1,10 +1,19 @@
 # CN禁用的大模型和应用等内容
+# Apple Intelligence
 DOMAIN-KEYWORD,apple-relay.apple.com
 DOMAIN-KEYWORD,guzzoni.smoot.apple.com
 DOMAIN-KEYWORD,guzzoni.apple.com
 DOMAIN-KEYWORD,amp-api-search-edge.apple.com
+
+# Apple Podcasts
+DOMAIN-SUFFIX,podcasts.apple.com
+
+# Digital Currency
 DOMAIN-SUFFIX,binance.com
+
+# Communication
 DOMAIN-SUFFIX,helium.com
+
+# Google Gemini
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gemini.com
-DOMAIN-SUFFIX,podcasts.apple.com
