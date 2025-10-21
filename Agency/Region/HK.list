@@ -1,3 +1,7 @@
 # HK路由
+# 致富证券
 DOMAIN-SUFFIX,cheifgroup.com
 DOMAIN-SUFFIX,cheifgroup.com.*
+# Mastodon
+DOMAIN-SUFFIX,mastodon.com
+
