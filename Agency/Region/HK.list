@@ -4,4 +4,6 @@ DOMAIN-SUFFIX,cheifgroup.com
 DOMAIN-SUFFIX,cheifgroup.com.*
 # Mastodon
 DOMAIN-SUFFIX,mastodon.com
+#Spotify
+DOMAIN-SUFFIX,spotify.com
 
