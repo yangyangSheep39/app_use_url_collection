@@ -6,4 +6,5 @@ DOMAIN-SUFFIX,cheifgroup.com.*
 DOMAIN-SUFFIX,mastodon.com
 #Spotify
 DOMAIN-SUFFIX,spotify.com
-
+# Stripe
+DOMAIN-KEYWORD,stripe.com
