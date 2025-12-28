@@ -2,16 +2,16 @@
 ## ❤️🔥CF优选三网直连『直连』： 用运营商DNS获得最佳效果 优先添加，挂梯也可使用
 DOMAIN-SUFFIX,cdn.fufuemby.top
 ## 运营商优选CDN『移动/联通/电信』
-DOMAIN-SUFFIX,mobile.fufuemby.top
-DOMAIN-SUFFIX,unicom.fufuemby.top
-DOMAIN-SUFFIX,telecom.fufuemby.top
+# DOMAIN-SUFFIX,mobile.fufuemby.top
+# DOMAIN-SUFFIX,unicom.fufuemby.top
+# DOMAIN-SUFFIX,telecom.fufuemby.top
+DOMAIN-SUFFIX,fufuemby.top
 
 
 ## 电信CN线路『仅CN』
-DOMAIN-SUFFIX,ptcn2.5203166.xyz
-
+# DOMAIN-SUFFIX,ptcn2.5203166.xyz
 ## 美西4837 线路『仅CN』：
-DOMAIN-SUFFIX,lax4837.5203166.xyz
-
+# DOMAIN-SUFFIX,lax4837.5203166.xyz
 ## 日本落地:『仅CN;JP;HK』
-DOMAIN-SUFFIX,gtwd.5203166.xyz
+# DOMAIN-SUFFIX,gtwd.5203166.xyz
+DOMAIN-SUFFIX,5203166.xyz
