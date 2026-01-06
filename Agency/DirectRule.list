@@ -1,4 +1,10 @@
 # 以下的域名代理到Local本地
+# Asspp
 DOMAIN-KEYWORD,qaq.wiki
 DOMAIN-KEYWORD,*.local
+
+# MoveCar
 DOMAIN,ngshiyu.de5.net
+
+# iTab
+DOMAIN-SUFFIX,codelife.cc
