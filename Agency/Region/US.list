@@ -1,12 +1,10 @@
 # Us路由
 # Persona
 DOMAIN-KEYWORD,persona.com
+
 # google
 DOMAIN-KEYWORD,google
+
 # 盈透证券Interactivebrokers
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibkr.com
-
-# 临小境
-DOMAIN-KEYWORD,liminalnet
-
