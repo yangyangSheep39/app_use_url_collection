@@ -7,7 +7,6 @@ DOMAIN-SUFFIX,cdn.fufuemby.top
 # DOMAIN-SUFFIX,telecom.fufuemby.top
 DOMAIN-SUFFIX,fufuemby.top
 
-
 ## 电信CN线路『仅CN』
 # DOMAIN-SUFFIX,ptcn2.5203166.xyz
 ## 美西4837 线路『仅CN』：
@@ -21,3 +20,19 @@ DOMAIN-SUFFIX,emby.yun
 
 #Faemby
 DOMAIN-SUFFIX,faemby.t21w2.cn
+
+#HG
+DOMAIN-SUFFIX,dpdns.org
+
+#云海
+DOMAIN-SUFFIX,oceancloud.asia
+
+#NYA
+DOMAIN-SUFFIX,bangumi.ca
+
+#GUAI
+DOMAIN-SUFFIX,guaiguaiemby.83787.de
+
+#ETFLIX 天翼网盘服
+DOMAIN-SUFFIX,embyty.entertang.work
+
