@@ -39,3 +39,13 @@ DOMAIN-SUFFIX,embyty.entertang.work
 
 # 享境 Luxrealm
 DOMAIN-SUFFIX,luxrealm.space
+
+#Mirai
+DOMAIN,mi.miraiemby.com,DIRECT #服务主线路
+DOMAIN,stream-1.miraiemby.com,DIRECT #推流主线路
+##仅直连线路2
+DOMAIN,mi2.miraiemby.com,DIRECT #服务线路2
+DOMAIN,stream-1.jiedaibao.gs,DIRECT #推流线路2
+##仅直连线路3
+DOMAIN,mi2.miraiemby.com,DIRECT #服务线路3
+DOMAIN,stream-3.miraiemby.com,DIRECT #推流线路3
