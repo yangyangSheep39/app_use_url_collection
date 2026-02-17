@@ -31,3 +31,6 @@ URL-REGEX,^https?:\/\/([^/]*\.)?cn(\.|:|/|$)
 
 #iTab
 DOMAIN-SUFFIX,go.itab.link
+
+#XiaoMi
+DOMAIN-KEYWORD,xiaomi
