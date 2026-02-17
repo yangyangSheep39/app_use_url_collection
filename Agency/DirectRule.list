@@ -12,6 +12,7 @@ DOMAIN,api.codelife.cc
 
 # QQ WEXIN
 DOMAIN-SUFFIX,qq.com
+DOMAIN-KEYWORD,weixin
 
 # 抖音
 DOMAIN-SUFFIX,amemv.com
