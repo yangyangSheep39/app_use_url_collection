@@ -35,3 +35,7 @@ DOMAIN-SUFFIX,go.itab.link
 
 #XiaoMi
 DOMAIN-KEYWORD,xiaomi
+
+#Banks
+##中银香港 BOCHK
+DOMAIN-SUFFIX,bochk.com
