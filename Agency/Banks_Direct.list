@@ -1,6 +1,6 @@
 #Banks
 ##中银香港 BOCHK
-DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochk.com,DIRECT
 
 ##ICBC 工银亚洲
-DOMAIN-SUFFIX,icbc.com
+DOMAIN-SUFFIX,icbc.com.cn,DIRECT
