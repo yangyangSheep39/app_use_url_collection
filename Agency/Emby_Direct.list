@@ -49,3 +49,6 @@ DOMAIN,stream-1.jiedaibao.gs,DIRECT #推流线路2
 ##仅直连线路3
 DOMAIN,mi2.miraiemby.com,DIRECT #服务线路3
 DOMAIN,stream-3.miraiemby.com,DIRECT #推流线路3
+
+#KL Emby
+DOMAIN,tyemby.klplay.top,DIRECT
