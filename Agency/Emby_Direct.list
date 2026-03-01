@@ -52,3 +52,6 @@ DOMAIN,stream-3.miraiemby.com,DIRECT #推流线路3
 
 #KL Emby
 DOMAIN,tyemby.klplay.top,DIRECT
+
+#MICU Emby
+DOMAIN-SUFFIX,micu.hk,DIRECT
