@@ -55,3 +55,6 @@ DOMAIN,tyemby.klplay.top,DIRECT
 
 #MICU Emby
 DOMAIN-SUFFIX,micu.hk,DIRECT
+
+# Hello HK
+DOMAIN-SUFFIX,hellohk.me,DIRECT
