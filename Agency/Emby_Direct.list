@@ -58,3 +58,22 @@ DOMAIN-SUFFIX,micu.hk,DIRECT
 
 # Hello HK
 DOMAIN-SUFFIX,hellohk.me,DIRECT
+
+# EBS 幻梦花海
+## CDN线路：
+DOMAIN,ebs.digimon.ink,DIRECT
+
+## 三网反代线路：
+DOMAIN,ebs.bydsb.cc.cd,DIRECT
+DOMAIN,ebs.cnmbyd.de5.net,DIRECT
+DOMAIN,ebs.cnmbyd.xyz,DIRECT
+DOMAIN,ebs.fw1.de5.net,DIRECT
+DOMAIN,emby.yvle.de,DIRECT
+DOMAIN,emby.yvfa.de,DIRECT
+DOMAIN,emby.ebsio.dpdns.org,DIRECT
+
+## 移动专用线路：
+DOMAIN,ebs.sbcnm.us.ci,DIRECT
+
+# 风月阁
+DOMAIN,mmp.digimon.ink,DIRECT
