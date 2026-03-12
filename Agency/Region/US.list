@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,google
 # 盈透证券Interactivebrokers
 DOMAIN-SUFFIX,ibllc.com
 DOMAIN-SUFFIX,ibkr.com
+DOMAIN-KEYWORD,interactivebrokers
 
 # t-mobile
 DOMAIN-SUFFIX,t-mobile.com
