@@ -13,3 +13,6 @@ DOMAIN-KEYWORD,interactivebrokers
 # t-mobile
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-KEYWORD,tmobile
+
+# FirstTrade
+DOMAIN-SUFFIX,firstrade.com
