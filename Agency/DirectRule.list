@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,ngshiyu.ccwu.cc
 URL-REGEX,^https?:\/\/([^/]*\.)?cn(\.|:|/|$)
 
 #iTab
-DOMAIN-SUFFIX,itab.link
+DOMAIN-KEYWORD,itab.link
 
 #XiaoMi
 DOMAIN-KEYWORD,xiaomi
