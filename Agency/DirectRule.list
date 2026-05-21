@@ -9,6 +9,9 @@ DOMAIN,ngshiyu.de5.net
 # iTab
 DOMAIN-SUFFIX,codelife.cc
 DOMAIN,api.codelife.cc
+DOMAIN-SUFFIX,itab.link
+DOMAIN-KEYWORD,itab
+
 
 # QQ WEXIN
 DOMAIN-SUFFIX,qq.com
@@ -29,9 +32,6 @@ DOMAIN-SUFFIX,ngshiyu.ccwu.cc
 
 # CN
 URL-REGEX,^https?:\/\/([^/]*\.)?cn(\.|:|/|$)
-
-#iTab
-DOMAIN-KEYWORD,itab.link
 
 #XiaoMi
 DOMAIN-KEYWORD,xiaomi
