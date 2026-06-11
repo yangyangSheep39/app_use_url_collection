@@ -47,3 +47,6 @@ DOMAIN-SUFFIX,orb.local
 
 # 影视飓风
 DOMAIN-SUFFIX,ysjf.com
+
+# Teams
+DOMAIN-SUFFIX,teams.microsoft.com
