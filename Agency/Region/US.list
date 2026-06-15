@@ -20,3 +20,7 @@ DOMAIN-SUFFIX,firstrade.com
 
 # FirstTrade
 DOMAIN-SUFFIX,firstrade.com
+
+# Apple News
+DOMAIN-SUFFIX,news.apple.com
+AND,((DOMAIN-SUFFIX,apple.com),(DOMAIN-KEYWORD,news))
