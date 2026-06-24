@@ -50,3 +50,6 @@ DOMAIN-SUFFIX,ysjf.com
 
 # Teams
 DOMAIN-SUFFIX,teams.microsoft.com
+
+# NetEase
+DOMAIN-SUFFIX,163.com

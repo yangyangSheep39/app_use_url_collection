@@ -2,4 +2,20 @@
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,bnbstatic.com
 
+# Bitget
+DOMAIN-SUFFIX,bitget.com
+
+# Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.io
+DOMAIN-SUFFIX,bybitwallet.com
+DOMAIN-SUFFIX,bybit.com
+
+# Coinbase
+DOMAIN-SUFFIX,coinbase.com
+
 # OKX
+DOMAIN-SUFFIX,okx.com
+
+# Kraken
+DOMAIN-SUFFIX,kraken.com
