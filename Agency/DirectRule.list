@@ -53,3 +53,10 @@ DOMAIN-SUFFIX,teams.microsoft.com
 
 # NetEase
 DOMAIN-SUFFIX,163.com
+
+# JD
+DOMAIN-SUFFIX,jd.com
+
+# Taobao
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
