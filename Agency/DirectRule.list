@@ -53,6 +53,8 @@ DOMAIN-SUFFIX,teams.microsoft.com
 
 # NetEase
 DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,126.com
+
 
 # JD
 DOMAIN-SUFFIX,jd.com
