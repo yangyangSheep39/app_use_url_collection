@@ -57,3 +57,6 @@ DOMAIN-SUFFIX,jd.com
 # Taobao
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tmall.com
+
+# BOSS
+DOMAIN-SUFFIX,zhipin.com
