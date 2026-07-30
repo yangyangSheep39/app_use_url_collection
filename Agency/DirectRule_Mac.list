@@ -1,3 +1,8 @@
 # 以下的域名代理到Local本地
 # Bilibili
-DOMAIN-KEYWORD,bili
+DOMAIN-KEYWORD,bili,DIRECT
+DOMAIN-SUFFIX,bilibili.com,DIRECT
+DOMAIN-SUFFIX,hdslb.com,DIRECT
+DOMAIN-SUFFIX,bilivideo.com,DIRECT
+DOMAIN-SUFFIX,biliapi.com,DIRECT
+DOMAIN-SUFFIX,biliapi.net,DIRECT
