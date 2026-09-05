@@ -60,3 +60,6 @@ DOMAIN-SUFFIX,tmall.com
 
 # BOSS
 DOMAIN-SUFFIX,zhipin.com
+
+# AMAP
+DOMAIN-SUFFIX,amap.com
